@@ -1,3 +1,7 @@
+# eclipse specific (generated) files
+.classpath
+.project
+.settings
 target/
 *~
 TODO
